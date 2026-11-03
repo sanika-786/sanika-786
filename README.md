@@ -1,19 +1,10 @@
-
-<!-- =======================================================
-     SANIKA BHALE | PROFESSIONAL GIRL DEVELOPER PROFILE
-     Theme: Midnight Navy • Royal Purple • Electric Blue
-            Coral • Mint • Soft Ivory
-======================================================== -->
-
-<!-- ===================== HERO ===================== -->
+<!-- ================= HERO ================= -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:17243D,25:394C83,55:7561B5,80:398F9B,100:E58C78&text=SANIKA%20BHALE&fontSize=68&fontColor=FFFFFF&fontAlignY=40&desc=DEVELOPER%20%7C%20DESIGNER%20%7C%20DREAMER&descSize=17&descAlignY=61&animation=twinkling&fontAlign=50" alt="Sanika Bhale animated profile banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:10172F,25:273B70,50:6254A5,75:267F91,100:E58C78&text=Sanika%20Bhale&fontSize=75&fontColor=FFFFFF&fontAlignY=40&desc=Developer%20%20%E2%80%A2%20%20Designer%20%20%E2%80%A2%20%20Dreamer&descSize=20&descAlignY=62&animation=twinkling" alt="Sanika Bhale hero banner"/>
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2500&pause=900&color=7561B5&center=true&vCenter=true&width=750&height=55&lines=Hello%2C+I'm+Sanika+%F0%9F%91%8B;Computer+Science+Engineering+Student;Full+Stack+Developer+in+Progress;Creative+UI%2FUX+Enthusiast;Turning+Ideas+Into+Digital+Experiences+%E2%9C%A8" alt="Animated introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&color=9C91F5&center=true&vCenter=true&width=750&height=55&lines=Hello%2C+I'm+Sanika+%F0%9F%91%8B;Computer+Science+Engineering+Student;Full+Stack+Developer+in+Progress;Creative+Mind+%7C+Developer+Heart;Dream+%E2%80%A2+Code+%E2%80%A2+Create+%E2%9C%A8" alt="Animated typing introduction"/>
 
 <br/>
 
@@ -22,55 +13,53 @@
 </a>
 
 <a href="https://github.com/sanika-786?tab=followers">
-<img src="https://img.shields.io/github/followers/sanika-786?label=Followers&style=for-the-badge&color=398F9B&logo=github" alt="GitHub followers"/>
-</a>
-
-<a href="https://github.com/sanika-786?tab=repositories">
-<img src="https://img.shields.io/badge/Explore-My%20Repositories-E58C78?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/>
+<img src="https://img.shields.io/github/followers/sanika-786?style=for-the-badge&logo=github&label=FOLLOWERS&color=267F91" alt="GitHub followers"/>
 </a>
 
 </div>
 
 <br/>
 
-<!-- ===================== ABOUT ===================== -->
+<!-- ================= ABOUT + ILLUSTRATION ================= -->
 
-<h2 align="center">✦ ABOUT ME</h2>
+<h2 align="center">✦ ABOUT ME ✦</h2>
 
 <table>
 <tr>
-<td width="65%" valign="middle">
+<td width="62%" valign="middle">
 
-### Hey, I'm Sanika! 👩🏻‍💻
+### Hey, I'm Sanika! 👋
 
 I'm a Computer Science Engineering student who enjoys combining technology with creativity.
 
-- 💻 Interested in Full Stack Development and Software Engineering.
-- 🎨 Passionate about UI/UX and visually engaging interfaces.
-- 🌱 Currently exploring DSA, IoT and Cybersecurity.
-- 🧩 Love solving problems and experimenting with new ideas.
-- 🚀 Working towards becoming a skilled software developer.
+- 💻 Interested in Full Stack Development.
+- 🎨 Passionate about UI/UX and creative interfaces.
+- 🌱 Exploring DSA, IoT and Cybersecurity.
+- 🧠 Love solving problems and learning new technologies.
+- 🚀 Working towards becoming a skilled software engineer.
 
-**My philosophy:** Write clean code, build with purpose and never stop learning.
+**Code Today. Build Tomorrow.**
 
 </td>
-<td width="35%" align="center" valign="middle">
+<td width="38%" align="center" valign="middle">
 
-<img width="100%" src="https://placehold.co/300x300/17243D/FFFFFF?text=CODE%20%26%20CREATE" alt="Code and create illustration"/>
+<img width="100%" src="https://placehold.co/400x420/17243D/D9C8FF?text=GIRL+WHO+%3C%2F%3ECODES" alt="Girl coder illustration placeholder"/>
 
 </td>
 </tr>
 </table>
 
-<!-- ===================== TECH STACK ===================== -->
+<br/>
 
-<h2 align="center">✦ TECHNOLOGIES & TOOLS</h2>
+<!-- ================= TECHNOLOGIES ================= -->
+
+<h2 align="center">⚙️ TECH STACK</h2>
 
 <h3 align="center">Frontend Development</h3>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap&theme=light" alt="HTML CSS JavaScript React Bootstrap"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap&theme=dark" alt="Frontend technology icons"/>
 
 </div>
 
@@ -78,7 +67,7 @@ I'm a Computer Science Engineering student who enjoys combining technology with 
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&theme=light" alt="Node.js Express MongoDB Firebase"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&theme=dark" alt="Backend technology icons"/>
 
 </div>
 
@@ -86,23 +75,23 @@ I'm a Computer Science Engineering student who enjoys combining technology with 
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python&theme=light" alt="C C++ Java Python"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python&theme=dark" alt="Programming language icons"/>
 
 </div>
 
-<h3 align="center">Development & Design Tools</h3>
+<h3 align="center">Tools & Design</h3>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux&theme=light" alt="Git GitHub VS Code Figma Linux"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux&theme=dark" alt="Development tools icons"/>
 
 </div>
 
 <br/>
 
-<!-- ===================== PROJECTS ===================== -->
+<!-- ================= PROJECTS ================= -->
 
-<h2 align="center">✦ FEATURED PROJECTS</h2>
+<h2 align="center">🚀 FEATURED PROJECTS</h2>
 
 <table>
 <tr>
@@ -112,7 +101,7 @@ I'm a Computer Science Engineering student who enjoys combining technology with 
 
 Research-oriented software project exploring algorithmic approaches to stock order matching.
 
-**Focus areas**
+**Exploring**
 - Algorithm design
 - Data structures
 - Performance evaluation
@@ -123,33 +112,34 @@ Research-oriented software project exploring algorithmic approaches to stock ord
 </td>
 <td width="50%" valign="top">
 
-<h3>🏥 MediChain</h3>
+<h3>💙 MediChain</h3>
 
-A QR-based healthcare record management concept focused on secure patient record access and consent.
+QR-based healthcare record management concept focused on secure access and patient consent.
 
-**Focus areas**
-- QR-based access
+**Exploring**
+- QR-based record access
 - Patient consent
 - Role-based access
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
-<img src="https://img.shields.io/badge/Security-398F9B?style=flat-square" alt="Security"/>
+<img src="https://img.shields.io/badge/Security-267F91?style=flat-square" alt="Security"/>
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
-<h3>🌊 DrainMind-SR</h3>
+<h3>💧 DrainMind-SR</h3>
 
-An IoT-based smart drainage monitoring and automatic cleaning system concept.
+IoT-based smart drainage monitoring and automatic cleaning system concept.
 
-**Focus areas**
+**Exploring**
 - Blockage detection
 - Automated cleaning
 - Flow verification
 
-<img src="https://img.shields.io/badge/IoT-398F9B?style=flat-square" alt="IoT"/>
+<img src="https://img.shields.io/badge/IoT-267F91?style=flat-square" alt="IoT"/>
 <img src="https://img.shields.io/badge/ESP32-E58C78?style=flat-square" alt="ESP32"/>
 
 </td>
@@ -157,9 +147,9 @@ An IoT-based smart drainage monitoring and automatic cleaning system concept.
 
 <h3>🤖 AI Chat History Server</h3>
 
-An AI-powered chat history application concept with a modern web interface.
+AI-powered chat history application concept with a modern web interface.
 
-**Focus areas**
+**Exploring**
 - Chat management
 - AI integration
 - Backend development
@@ -175,16 +165,16 @@ An AI-powered chat history application concept with a modern web interface.
 <div align="center">
 
 <a href="https://github.com/sanika-786?tab=repositories">
-<img src="https://img.shields.io/badge/VIEW%20ALL%20PROJECTS-17243D?style=for-the-badge&logo=github&logoColor=white" alt="View all projects"/>
+<img src="https://img.shields.io/badge/VIEW%20ALL%20PROJECTS-7561B5?style=for-the-badge&logo=github&logoColor=white" alt="View projects"/>
 </a>
 
 </div>
 
 <br/>
 
-<!-- ===================== COMMUNITY ===================== -->
+<!-- ================= COMMUNITY ================= -->
 
-<h2 align="center">✦ COMMUNITY & EXPERIENCE</h2>
+<h2 align="center">🌟 COMMUNITY & EXPERIENCE</h2>
 
 <div align="center">
 
@@ -192,60 +182,56 @@ An AI-powered chat history application concept with a modern web interface.
 
 **Aesthetics Team Member — GDGoC VIT Pune**
 
-Exploring creativity, visual design and collaboration within the developer community.
+Exploring visual creativity, collaboration and design in the developer community.
 
 </div>
 
 <br/>
 
-<!-- ===================== GITHUB STATS ===================== -->
+<!-- ================= GITHUB STATS ================= -->
 
-<h2 align="center">✦ GITHUB ANALYTICS</h2>
-
-<p align="center">
-<i>Every contribution is a step forward. 📊</i>
-</p>
+<h2 align="center">📊 GITHUB STATS</h2>
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=sanika-786&show_icons=true&rank_icon=github&hide_border=true&bg_color=F5F7FC&title_color=394C83&icon_color=E58C78&text_color=344054&ring_color=7561B5&cache_seconds=86400" alt="Sanika's GitHub statistics"/>
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=sanika-786&show_icons=true&hide_border=true&bg_color=10172F&title_color=B9A7FF&icon_color=54D6D0&text_color=E2E8F0&ring_color=E58C78&cache_seconds=86400" alt="GitHub statistics"/>
 
 <br/><br/>
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanika-786&layout=donut&hide_border=true&bg_color=F5F7FC&title_color=394C83&text_color=344054&langs_count=8&cache_seconds=86400" alt="Most used programming languages"/>
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanika-786&layout=donut&hide_border=true&bg_color=10172F&title_color=B9A7FF&text_color=E2E8F0&langs_count=8&cache_seconds=86400" alt="Top programming languages"/>
 
 <br/><br/>
 
-<img width="100%" src="https://streak-stats.demolab.com?user=sanika-786&hide_border=true&background=F5F7FC&ring=7561B5&fire=E58C78&currStreakLabel=394C83&sideLabels=394C83&currStreakNum=344054&sideNums=344054&dates=697586" alt="GitHub contribution streak"/>
+<img width="100%" src="https://streak-stats.demolab.com?user=sanika-786&hide_border=true&background=10172F&ring=9B8AFB&fire=E58C78&currStreakLabel=54D6D0&sideLabels=B9A7FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAB4CC" alt="GitHub streak statistics"/>
 
 </div>
 
 <br/>
 
-<!-- ===================== CONTRIBUTION GRAPH ===================== -->
+<!-- ================= CONTRIBUTION GRAPH ================= -->
 
-<h2 align="center">✦ CONTRIBUTION JOURNEY</h2>
+<h2 align="center">🔥 CONTRIBUTION JOURNEY</h2>
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sanika-786&bg_color=F5F7FC&color=394C83&line=7561B5&point=E58C78&area=true&area_color=DCE6F7&hide_border=true&custom_title=My%20Coding%20Activity" alt="GitHub activity graph"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sanika-786&bg_color=10172F&color=B9A7FF&line=54D6D0&point=E58C78&area=true&area_color=273B70&hide_border=true&custom_title=My%20Coding%20Activity" alt="GitHub contribution activity"/>
 
 <br/><br/>
 
-<img width="100%" src="https://ghchart.rshah.org/398F9B/sanika-786" alt="GitHub contribution calendar"/>
+<img width="100%" src="https://ghchart.rshah.org/54D6D0/sanika-786" alt="GitHub contribution calendar"/>
 
 </div>
 
 <br/>
 
-<!-- ===================== CONNECT ===================== -->
+<!-- ================= CONNECT ================= -->
 
-<h2 align="center">✦ LET'S CONNECT</h2>
+<h2 align="center">💌 LET'S CONNECT</h2>
 
 <div align="center">
 
 <a href="https://github.com/sanika-786">
-<img src="https://img.shields.io/badge/GitHub-17243D?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-171B2E?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 <a href="https://www.linkedin.com/in/sanika-bhale-014995432/">
@@ -260,14 +246,14 @@ Exploring creativity, visual design and collaboration within the developer commu
 
 <br/>
 
-<!-- ===================== FOOTER ===================== -->
+<!-- ================= FOOTER ================= -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:17243D,35:394C83,70:7561B5,100:398F9B&section=footer&animation=twinkling" alt="Animated profile footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:10172F,30:273B70,65:6254A5,100:267F91&section=footer&animation=twinkling" alt="Animated footer"/>
 
-<h3>Designed with creativity. Built with curiosity.</h3>
+<h3>Dream. Code. Create. ✨</h3>
 
-<sub>© Sanika Bhale • Keep learning. Keep building. ✨</sub>
+<sub>Designed with creativity • Built with curiosity • Sanika Bhale</sub>
 
 </div>
